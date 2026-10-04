@@ -1,5 +1,7 @@
 __pycache__/
+notes/
 *.pyc
 .DS_Store
 album_slideshow.zip
 .release_notes_v*.md
+settings.json
